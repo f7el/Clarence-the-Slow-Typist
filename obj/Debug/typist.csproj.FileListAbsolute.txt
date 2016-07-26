@@ -1,0 +1,6 @@
+d:\users\paul\documents\visual studio 2015\Projects\typist\typist\bin\Debug\typist.exe.config
+d:\users\paul\documents\visual studio 2015\Projects\typist\typist\bin\Debug\typist.exe
+d:\users\paul\documents\visual studio 2015\Projects\typist\typist\bin\Debug\typist.pdb
+d:\users\paul\documents\visual studio 2015\Projects\typist\typist\obj\Debug\typist.csprojResolveAssemblyReference.cache
+d:\users\paul\documents\visual studio 2015\Projects\typist\typist\obj\Debug\typist.exe
+d:\users\paul\documents\visual studio 2015\Projects\typist\typist\obj\Debug\typist.pdb
