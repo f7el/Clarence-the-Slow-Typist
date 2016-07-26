@@ -25,4 +25,6 @@ where each () is an integer in the range 0 - 999. This represents the IP address
 I would also like to point out that inputs such as 0.42.42.42 or 999.999.999.999 are still valid inputs, despite the fact that they are invalid IP addresses. So you don't need to include any IP address verification code in your program.
 Output Description
 
+#Output
+
 Output the distance that Clarence must move his finger in order to type in the specified IP address. Round answers to two decimal places where needed, and use the cm unit in your output. The output for the example input is 27.38cm (1 + sqrt 8 + sqrt 5 + 2 + 1 + sqrt 5 + 3 + 1 + sqrt 5 + sqrt 13 + 3 + 1 + sqrt 5).
